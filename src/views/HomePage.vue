@@ -57,7 +57,7 @@
                         <span class="fa fa-star checked"></span>
                         <span class="fa fa-star checked"></span>
                     </div>
-                    <p class="card-text fw-bold">$ 59.0</p>
+                    <p class="card-text fw-bold">$ 59.1</p>
                 </div>
             </div>
             <div class="card productCard border-0">
