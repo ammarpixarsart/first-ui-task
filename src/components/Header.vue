@@ -36,7 +36,7 @@
 }
 
 </style>
-<script setup>
+<script>
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 // solid icons
 import { faMagnifyingGlass, faBagShopping,faCartShopping } from '@fortawesome/free-solid-svg-icons'
